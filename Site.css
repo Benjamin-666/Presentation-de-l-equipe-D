@@ -1,0 +1,146 @@
+
+header {
+  background-color: #356FCC;
+  color: white;
+  text-align: center;
+  padding: 60xp;
+}
+
+
+titre {
+      background-color: lightblue; /* couleur de fond */
+      text-align: center;         /* centre le texte */
+      padding: 20px;              /* espace autour du texte */
+      font-size: 30px;            /* taille du texte */
+      font-weight: bold;          /* texte en gras */
+    }
+
+.btn-accueil-fixe {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #3498db;   /* bleu */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;       /* enlève le soulignement du lien */
+    border-radius: 8px;          /* arrondi des coins */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;   /* effet animé */
+  }
+
+.btn-accueil {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #3498db;   /* bleu */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;       /* enlève le soulignement du lien */
+    border-radius: 8px;          /* arrondi des coins */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;   /* effet animé */
+  }
+
+  .btn-accueil:hover {
+    background-color: #2980b9;   /* bleu plus foncé au survol */
+    transform: scale(1.05);      /* effet zoom */
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+  }
+
+.btn-nom-fixe {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #FFFFFF;   /* bleu */
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;       /* enlève le soulignement du lien */
+    border-radius: 8px;          /* arrondi des coins */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;   /* effet animé */
+  }
+
+.btn-nom-pale {
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: #3E9CFA;   /* bleu */
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;       /* enlève le soulignement du lien */
+    border-radius: 8px;          /* arrondi des coins */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;   /* effet animé */
+  }
+
+.btn-nom {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #FFFFFF;   /* bleu */
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;       /* enlève le soulignement du lien */
+    border-radius: 8px;          /* arrondi des coins */
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    transition: all 0.3s ease;   /* effet animé */
+  }
+
+  .btn-nom:hover {
+    background-color: #DBD3D3;   /* bleu plus foncé au survol */
+    transform: scale(1.05);      /* effet zoom */
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.3);
+  }
+
+
+.btn-pied_page {
+    display: inline-block;
+    padding: 5px 15px;
+    background-color: #356FCC;   /* bleu */
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;       /* enlève le soulignement du lien */
+    border-radius: 8px;          /* arrondi des coins */
+    transition: all 0.3s ease;    /* effet animé */
+  }
+
+
+
+    h2 {
+      width: 31%;                  /* largeur (ici 60% de la page, modifiable) */
+      margin: 20px auto;            /* centre horizontalement */
+      background-color: lightblue;  /* couleur de fond */
+      text-align: center;           /* centre le texte à l'intérieur */
+      padding: 20px;                /* espace autour du texte */
+      border-radius: 10px;          /* coins arrondis */
+      font-size: 28px;              /* taille du texte */
+      font-weight: bold;            /* texte en gras */
+    }
+
+.texte-grand {
+font-size: 20px; /* Taille en pixels */
+}
+
+.texte-grand-1 {
+font-size: 12.5px; /* Taille en pixels */
+}
+
+
+
+footer {
+  background-color: #356FCC;
+  color: white;
+  text-align: left;
+  padding: 60xp;
+}
+
+.image-droite {
+    position: absolute;      /* Positionnement précis */
+    left: 50px;             /* Distance du bord droit */
+    top: 50px;              /* Distance du haut de la page */
+    max-height: 100px;       /* Taille maximale de l’image */
+    border-radius: 15px;
+}
+
+
