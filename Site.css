@@ -96,7 +96,7 @@ titre {
 .btn-pied_page {
     display: inline-block;
     padding: 5px 15px;
-    background-color: #356FCC;   /* bleu */
+    background-color: #365FB6;   /* bleu */
     color: white;
     font-size: 16px;
     font-weight: bold;
@@ -142,6 +142,7 @@ footer {
     max-height: 100px;       /* Taille maximale de l’image */
     border-radius: 15px;
 }
+
 
 
 
