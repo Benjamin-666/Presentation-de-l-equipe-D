@@ -1,6 +1,6 @@
 
 header {
-  background-color: #356FCC;
+  background-color: #2c3e50;
   color: white;
   text-align: center;
   padding: 60xp;
@@ -129,7 +129,7 @@ font-size: 12.5px; /* Taille en pixels */
 
 
 footer {
-  background-color: #356FCC;
+  background-color: #2c3e50;
   color: white;
   text-align: left;
   padding: 60xp;
@@ -142,5 +142,6 @@ footer {
     max-height: 100px;       /* Taille maximale de l’image */
     border-radius: 15px;
 }
+
 
 
